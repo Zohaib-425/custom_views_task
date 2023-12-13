@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Booster</string>
+    <string name="boost_volume">Boost Volume</string>
+    <string name="tap_to_open_your_music_player">Tap to open your music player</string>
+    <string name="mute">Mute</string>
+    <string name="_30_percent">30%</string>
+    <string name="_60_percent">60%</string>
+    <string name="_100_percent">100%</string>
+    <string name="_125_percent">125%</string>
+    <string name="_150_percent">150%</string>
+    <string name="_175_percent">175%</string>
+    <string name="max">Max</string>
+</resources>
