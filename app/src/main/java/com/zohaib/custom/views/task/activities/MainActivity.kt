@@ -29,11 +29,11 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setHomeAsUpIndicator(R.drawable.arrow_back)
 
-        initPlayerControlPanel()
+        initViews()
 
     }
 
-    private fun initPlayerControlPanel() {
+    private fun initViews() {
 
         binding.apply {
             controlPanelView.apply {
